@@ -1,4 +1,0 @@
-"STARTUP.obj",
-"test.obj" 
-TO "main" 
-RAMSIZE(256) 

@@ -1,4 +1,0 @@
-"STARTUP.obj",
-"matrixkey.obj" 
-TO "matrixkey" 
-RAMSIZE(256) 
